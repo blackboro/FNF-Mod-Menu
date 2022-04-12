@@ -12,6 +12,7 @@ oh yeah flutter made the categories
 
 MOST POPULAR MODS
 -----------------
+[FNF Indie Cross v2](https://fridaynightfunkin.games/fnf-indie-cross-v2/) 
 
 [Mid-Fight Masses](https://kbhgames.com/game/friday-night-funkin-sarventes-mid-fight-masses) (credits to kbhgames)
 
@@ -30,6 +31,8 @@ MOST POPULAR MODS
 [V.S Hex](https://elpeppywall.github.io/Mods/hex) (credits to peppy)
 
 [V.S Zardy](https://pyoyoyo152.000webhostapp.com/Foolhardy%20browser%20kade/) (credits to snipergaming88)
+
+[FNF MODS](https://fridaynightfunkin.games) (fnf mods games online)
 
  CUSTOM SONGS
 --------------
